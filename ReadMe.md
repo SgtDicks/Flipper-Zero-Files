@@ -1,7 +1,7 @@
 # These are files for my Flipper Zero 
 
 <a href="https://github.com/Dj3ky/Flipper-Zero-Files">
-<img src="https://github.com/Dj3ky/Flipper-Zero-Files/banner.png" align="center" alt="Dj3ky" border="0">
+<img src="https://github.com/Dj3ky/Flipper-Zero-Files/blob/main/Banner.png?raw=true" align="center" alt="Dj3ky" border="0">
 </a>
 
 This is fork from UberGuido'z repo. I removed some unused and add some usefull files
